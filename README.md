@@ -11,6 +11,11 @@ It's nothing complex, just a self-scrolling slide show that changes the image ev
 It's a small practice project so it's not deployed live.
 To view locally simply clone the repo and run the [index.html](index.html) file and it should run directly on your browser.
 
+## Tools 🛠
+I build this completely with:
+- HTML
+- CSS
+- Javascript
 
 
 
